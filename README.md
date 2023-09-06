@@ -1,4 +1,4 @@
-# 🐢 Artist Turtle/artist_turtle
+# 🐢 Artist Turtle / artist_turtle
 
 ![alt text](https://github.com/iitz3bsmd/artist_turtle/blob/main/cute_butterfly_drawing.png)
 
@@ -7,7 +7,7 @@ This project utilises ros2's turtlesim package to trace the path of a drawing us
 The project is built using ros2 humble on Ubuntu 22.04. It consists of two nodes, shapeNode, and turtleCommander.
 
 ## Demo
-![alt text](https://github.com/iitz3bsmd/artist_turtle/blob/main/artist_turtle_demo.mp4)
+[![Watch the video](https://github.com/iitz3bsmd/artist_turtle/blob/main/artist_turtle_demo.mp4)
 
 ## Launching
 to launch the package do the follwing:
