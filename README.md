@@ -12,10 +12,6 @@ https://github.com/iitz3bsmd/artist_turtle/assets/112030326/75f04c06-682c-4064-8
 ## Launching
 to launch the package do the follwing:
 1. in a terminal, write the command
-
-https://github.com/iitz3bsmd/artist_turtle/assets/112030326/75f04c06-682c-4064-8443-e798dd3da5d0
-
-
 ```
    ros2 launch artist_turtle artist_turtle_launch.py
 ```
